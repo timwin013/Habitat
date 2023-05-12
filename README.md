@@ -1,3 +1,5 @@
+Bath 2022 hackathon project
+
 ## Inspiration
 Staying active is essential to maintaining a fit and healthy lifestyle. With the increasing popularity of wearable devices like smartwatches, many people use their daily step count as a measure of how active they are. Setting a step goal to meet is a great way to stay motivated, however it can sometimes be hard to maintain that motivation. The NHS recommends that the best way to stay active is to form a habit that becomes a part of your routine. We wanted to create an app that helps its users to stay fit and healthy by helping to form these habits, providing motivation to meet step goals. Our biggest inspirations in this were apps like Forest and Sleep Town, which reward users for meeting goals and offers consequences for not meeting them. Other inspirations included apps that gamify exercise, such as Pokemon Go.
 
